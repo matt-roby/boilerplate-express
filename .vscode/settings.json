@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/6fda7628-a71e-4ddf-acf8-a9da649f1c28/resourceGroups/appsvc_linux_centralus/subscriptions/6fda7628-a71e-4ddf-acf8-a9da649f1c28/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/robyfccbackend",
+  "appService.deploySubpath": "."
+}
